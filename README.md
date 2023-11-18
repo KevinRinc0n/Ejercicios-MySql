@@ -1,8 +1,9 @@
 # Ejercicios-MySql
 
+# CONSULTAS
+
 ### Bloque 1
 
-##### Consultas
 
 1. Listar los nombres de los usuarios
 
